@@ -8,3 +8,7 @@
 ## Coding Style
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
+
+## Credits
+
+- [Icon](https://www.iconfinder.com/icons/897244/courses_language_learn_speak_icon) by [Laura Reen](https://www.iconfinder.com/laurareen)
