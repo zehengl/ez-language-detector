@@ -8,8 +8,12 @@ app.wsgi_app = WhiteNoise(app.wsgi_app, root="static/")
 
 
 def get_language(texts):
-    alpha2 = detect(texts).split("-")[0]
-    return languages.get(alpha2=alpha2).name
+    try:
+        alpha2 = detect(texts).split("-")[0]
+    except:
+        return "something I don't comprehend"
+    else:
+        return languages.get(alpha2=alpha2).name
 
 
 @app.route("/", methods=["GET", "POST"])
