@@ -1,4 +1,4 @@
-# ez-lanaguage-detector
+# ez-language-detector
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
 [![time tracker](https://wakatime.com/badge/github/zehengl/ez-language-detector.svg)](https://wakatime.com/badge/github/zehengl/ez-language-detector)
