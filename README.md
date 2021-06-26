@@ -13,15 +13,9 @@ A Python application to detect language type
 - Python 3.9
 - Windows 10
 
-<hr>
-
-<sup>
-
 ## Credits
 
 - [Logo][1] by [Laura Reen][2]
-
-</sup>
 
 [1]: https://www.iconfinder.com/icons/897244/courses_language_learn_speak_icon
 [2]: https://www.iconfinder.com/laurareen
