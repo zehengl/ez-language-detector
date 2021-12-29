@@ -13,6 +13,16 @@ A Python application to detect language type
 - Python 3.9
 - Windows 10
 
+## Install
+
+    python -m venv venv
+    .\venv\Scripts\activate
+    python -m pip install -U pip
+    pip install -r requirements.txt
+
+Use `pip install -r requirements-dev.txt` for development.
+It will install `pylint` and `black` to enable linting and auto-formatting.
+
 ## Credits
 
 - [Logo][1] by [Laura Reen][2]
