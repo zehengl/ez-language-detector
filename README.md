@@ -15,8 +15,8 @@ A Python application to detect language type
 
 ## Install
 
-    python -m venv venv
-    .\venv\Scripts\activate
+    python -m venv .venv
+    .\.venv\Scripts\activate
     python -m pip install -U pip
     pip install -r requirements.txt
 
